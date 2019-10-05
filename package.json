@@ -1,0 +1,32 @@
+{
+  "name": "team-nemesis",
+  "version": "1.0.0",
+  "description": "![hng_logo](https://res.cloudinary.com/benchuks-inc/image/upload/v1569336547/hng.png)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabicle/Team-NEMESIS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabicle/Team-NEMESIS/issues"
+  },
+  "homepage": "https://github.com/Gabicle/Team-NEMESIS#readme",
+  "dependencies": {
+    "aws-sdk": "^2.542.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.1.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "mongoose": "^5.7.1",
+    "mongoose-findorcreate": "^3.0.0",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local-mongoose": "^5.0.1"
+  }
+}
